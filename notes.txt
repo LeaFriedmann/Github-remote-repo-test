@@ -7,3 +7,5 @@ M = wurde verändert, aber ist mit der Änderung noch noicht in staging gelandet
 git add <file>
 
 git commit -m "your commit mesage"
+
+git add . = speichert den ganzen ordner
