@@ -1,0 +1,3 @@
+git init für den start
+
+U = untracked = noch nicht in staging ordner gelandet
