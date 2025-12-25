@@ -9,3 +9,5 @@ git add <file>
 git commit -m "your commit mesage"
 
 git add . = speichert den ganzen ordner
+
+git status = status abfragen
