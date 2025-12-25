@@ -1,3 +1,9 @@
 git init für den start
 
 U = untracked = noch nicht in staging ordner gelandet
+
+M = wurde verändert, aber ist mit der Änderung noch noicht in staging gelandet
+
+git add <file>
+
+git commit -m "your commit mesage"
