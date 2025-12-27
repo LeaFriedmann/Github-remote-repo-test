@@ -11,5 +11,3 @@ git commit -m "your commit mesage"
 git add . = speichert den ganzen ordner
 
 git status = status abfragen
-
-git restet --soft HEAD~1
